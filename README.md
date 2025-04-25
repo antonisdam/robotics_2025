@@ -65,9 +65,11 @@
 - Συζήτηση για τη σημασία της ισότητας.
 
 **Quiz Αξιολόγησης**
-[Ερωτήσεις  για το Project "Έξυπνη Τουαλέτα"!!!](https://wordwall.net/el/resource/86442013/%ce%b5%cf%81%cf%89%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-project-%ce%ad%ce%be%cf%85%cf%80%ce%bd%ce%b7-%cf%84%ce%bf%cf%85%ce%b1%ce%bb%ce%ad%cf%84%ce%b1)
 
-[΄Εξυπνη Τουαλέτα quiz 2](https://wordwall.net/el/resource/86512048/%ce%b5%ce%be%cf%85%cf%80%ce%bd%ce%b7-%cf%84%ce%bf%cf%85%ce%b1%ce%bb%ce%ad%cf%84%ce%b1-quiz-2)
+-[Ερωτήσεις  για το Project "Έξυπνη Τουαλέτα"!!!]
+(https://wordwall.net/el/resource/86442013/%ce%b5%cf%81%cf%89%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-project-%ce%ad%ce%be%cf%85%cf%80%ce%bd%ce%b7-%cf%84%ce%bf%cf%85%ce%b1%ce%bb%ce%ad%cf%84%ce%b1)
+
+-[΄Εξυπνη Τουαλέτα quiz 2](https://wordwall.net/el/resource/86512048/%ce%b5%ce%be%cf%85%cf%80%ce%bd%ce%b7-%cf%84%ce%bf%cf%85%ce%b1%ce%bb%ce%ad%cf%84%ce%b1-quiz-2)
 
 ## Συμπέρασμα
 Το project αυτό ενσωματώνει καινοτόμες λύσεις για την αναβάθμιση των σχολικών τουαλετών,  συνδυάζοντας  αυτοματισμούς για να αντιμετωπίσει πρακτικά προβλήματα. Εστιάζει στη διευκόλυνση των μαθητών και στη μείωση του φόρτου εργασίας των καθαριστριών, δημιουργώντας ένα καθαρό και  ασφαλές περιβάλλον.
