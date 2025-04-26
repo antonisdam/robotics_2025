@@ -49,6 +49,8 @@
 - Παρουσίαση με εικόνες και video τη χρήση του αισθητήρα.
 - Σύνδεση αισθητήρα με Micro:bit και ενεργοποίηση του servo.
 - Δοκιμές με νερό για ενεργοποίηση της βούρτσας.
+- [Φύλλο Εργασίας 1](https://docs.google.com/document/d/1sdm02BVbbSUkw0g358ng9q4rigJcJjF-XVRmAKxGHl4/edit?usp=sharing)
+
 
 **Μάθημα 2: Ανυψωτικό Σκαλοπάτι**
 Στόχος: Εκμάθηση του αισθητήρα υπερήχων και της σύγκρισης τιμών απόστασης. 
@@ -56,6 +58,7 @@
 - Πείραμα: Μέτρηση ύψους μαθητών και ενεργοποίηση servo για σήκωμα σκαλοπατιού.
 - Κωδικοποίηση if-statement για έλεγχο του ύψους.
 - Δημιουργία απλής κατασκευής σκαλοπατιού.
+- [Φύλλο Εργασίας 2](https://docs.google.com/document/d/1rjaHLJnZv_5QUCWn3PeGsJs3TdBJoqHylcG96Wnh_wM/edit?usp=sharing)
 
 **Μάθημα 3: Μπάρα Στήριξης για ΑμεΑ**
 Στόχος: Ευαισθητοποίηση σε θέματα προσβασιμότητας και χρήση αισθητήρα πίεσης. 
@@ -63,7 +66,9 @@
 - Προσομοίωση με καρότσι πάνω σε αυτοσχέδιο αισθητήρα.
 - Ενεργοποίηση servo που κινεί μια μπάρα.
 - Συζήτηση για τη σημασία της ισότητας.
+- [Φύλλο Εργασίας 3 ](https://docs.google.com/document/d/1VSQmmJ9eTIaiGch-Cbgj9wBI72LoqiuTXY4eb6kqSHQ/edit?usp=sharing)
 
+  
 ## Quiz Αξιολόγησης 
 
 -[Ερωτήσεις  για το Project "Έξυπνη Τουαλέτα"!!!](https://wordwall.net/el/resource/86442013/%ce%b5%cf%81%cf%89%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-project-%ce%ad%ce%be%cf%85%cf%80%ce%bd%ce%b7-%cf%84%ce%bf%cf%85%ce%b1%ce%bb%ce%ad%cf%84%ce%b1)
