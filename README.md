@@ -81,6 +81,17 @@
 ### Παρουσίαση Youtube
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Md59bIz-bwM/1.jpg)](https://www.youtube.com/watch?v=Md59bIz-bwM "My video")
  
+### Φωτογραφικό Υλικό
+<img src="images/1.jpg" alt="Screenshot" width="300" height="200">
+
+![Screenshot](images/2.jpg)
+
+![Screenshot](images/3.jpg)
+
+![Screenshot](images/4.jpg)
+
+
+
 ## Βασικός εξοπλισμός:
 - Micro:bit: 19,90€
 - Καλώδια σύνδεσης (Jumper wires x 3): 1,80 x3 =5,4€
